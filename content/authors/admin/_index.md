@@ -3,7 +3,7 @@
 title: 谢炯儒
 
 # Name pronunciation (optional)
-name_pronunciation: Jiongru XIE
+name_pronunciation: Jiongru XIE1
 
 # Full name (for SEO)
 first_name: Jiongru
